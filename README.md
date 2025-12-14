@@ -1,166 +1,183 @@
-<!-- ===================== HERO BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0e75b6,100:111827&text=Sanan%20Asgarly&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=System%20Builder%20%7C%20Advanced%20UI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62" />
-</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D050505%26height%3D180%26section%3Dheader%26text%3DSanan%2520Asgarly%26fontSize%3D60%26fontColor%3Df5f5f7%26fontAlign%3D50%26animation%3DfadeIn%26desc%3DSenior%2520Full%2520Stack%2520Architect%2520%2526%2520UI%2520Systems%2520Engineer%26descAlign%3D50%26descAlignY%3D65" alt="Sanan Asgarly Header" width="100%"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/asgarlysanan">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:asgarlysanann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sanan-asgarly-0a7220394">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.google.com/search?q=https://github.com/sananasgarly">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Building%2520Systems-2997ff%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" height="28"/>
+</a>
+<a href="mailto:contact@sananasgarly.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact-Email%2520Me-bf5af2%3Fstyle%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite" height="28"/>
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Live%2520Demo-30d158%3Fstyle%3Dfor-the-badge%26logo%3Dsafari%26logoColor%3Dwhite" height="28"/>
+</a>
 
-<h2 align="center">👋 Hi, I'm Sanan</h2>
+</div>
 
-<p align="center">
-I build systems, interfaces, and tools — not just websites.<br/>
-Focused on advanced UI, smooth animations, and intelligent web applications.
-</p>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asgarlysanan&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">"How far can this idea be pushed?"</h3>
 
----
+<br />
 
-## 🧠 How I Think About Programming
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSF%2BPro%2BDisplay%26weight%3D500%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D86868B%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DDesigning%2Bsystems%252C%2Bnot%2Bjust%2Bpages.%3BBuilding%2Binterfaces%2Bpeople%2Busually%2Bavoid.%3BFocusing%2Bon%2Barchitecture%2Bbefore%2Bframeworks.%3BMaking%2Bcomplex%2Blogic%2Bfeel%2Bsimple%2Band%2Bsmooth." alt="Typing SVG" />
+</div>
 
-I don’t write code just to make things work.  
-I care about **how things feel**, **how systems behave**, and **how far an idea can be pushed**.
+👨‍💻 The Philosophy
 
-What I enjoy most:
-- designing **systems**, not pages  
-- building **interfaces most people don’t attempt**
-- focusing on **architecture before tools**
-- making complex logic feel **simple and smooth**
+I don’t enjoy writing code just to finish tasks. What actually drives me is depth.
 
-Most of my projects start with one question:  
-**“How far can this be pushed?”**
+🏗️ Systems over Pages: I don't build web pages; I architect scalable frontend ecosystems.
 
----
+🧊 Glass & Logic: I specialize in building interfaces people usually avoid because they are "too complex."
 
-## 🚀 Main Project
+📐 Architecture First: Code is easy; architecture is hard. I focus on the blueprint before the framework.
 
-### 🧩 JOPESH  
-**Joint Operational Personal Enhanced System Host**
+🌊 Fluidity: Making complex backend logic feel simple and smooth on the UI.
 
-A long-term evolving system focused on:
-- AI-assisted workflows  
-- advanced frontend UI layers  
-- system-like web interfaces  
-- automation & real-time interaction  
+🚀 Flagship Project
 
-This is not a single app — it’s a **platform mindset**.
+🧩 JOPESH
 
----
+Joint Operational Personal Enhanced System Host
 
-## 🌱 Currently Learning & Deepening
+A long-term evolving system focused on re-imagining how we interact with the web. This is not a single app — it’s a platform mindset.
 
-- Python web frameworks  
-- Backend architecture & system design  
-- AI integration into real applications  
-- Animation-driven UI engineering  
+Core Pillars
 
-Learning for me means **depth over hype**.
+Description
 
----
+🤖 AI-Assisted Workflows
 
-## 💬 Ask Me About
+Integrating LLMs directly into the rendering pipeline for predictive UI.
 
-- Advanced UI animations  
-- High-end interface systems  
-- Modern web applications  
-- Frontend architecture decisions  
+💎 Advanced UI Layers
 
-I enjoy discussing *why* something should be built — not just *how*.
+Glassmorphism-heavy, GPU-accelerated frontend architecture using WebGL.
 
----
+⚡ Real-time Interaction
 
-## 🧩 What I Enjoy Most in Development
+WebSocket-driven state management for an OS-like web experience.
 
-- pushing UI beyond standard patterns  
-- making interfaces feel **alive**, not static  
-- building web projects that feel closer to an **OS**  
-- solving problems most people skip because they’re “too complex”
+🔄 Automation Engine
 
----
+Self-healing backend scripts and CI/CD pipelines.
 
-## 🛠 Languages & Tools
+💼 Professional Experience
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
+Using my timeline from my portfolio:
 
----
+2023 - Present • Senior Full Stack Architect @ TechCorp
 
-## 📊 GitHub Metrics (Live Data)
+Leading a team of 12 developers to rebuild core banking infrastructure.
 
-![Metrics](https://metrics.lecoq.io/asgarlysanan?template=classic
-&config.timezone=Asia/Baku
-&config.display=large
-&config.twemoji=true
-&config.octicon=true
+Re-engineered legacy monoliths into Python (FastAPI) microservices.
 
-&base.header=1
-&base.activity=1
-&base.community=1
-&base.repositories=1
-&base.metadata=1
+Implemented AI-driven fraud detection reducing incidents by 40%.
 
-&languages=1
-&languages.limit=8
-&languages.sections=most-used
-&languages.colors=github
-&languages.details=percentage
+2020 - 2023 • Lead Python Developer @ DataFlow
 
-&habits=1
-&habits.facts=true
-&habits.charts=true
+Designed scalable data pipelines processing 2TB+ daily.
 
-&isocalendar=1
-&isocalendar.duration=full-year
+Orchestrated containerized environments using Docker and Kubernetes.
 
-&followup=1
+Optimized database queries reducing latency by 60%.
 
-&pagespeed=1
-&pagespeed.url=https://github.com/asgarlysanan
+2018 - 2020 • UI/UX Engineer @ CreativeStudio
 
-&achievements=1
-&achievements.threshold=C
-&achievements.secrets=true
-&achievements.display=detailed
-)
+Bridged the gap between design and engineering.
 
----
+Created the acclaimed "Neon-OS" design system used in over 50 client projects.
 
-## 📈 GitHub Stats
+🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asgarlysanan&show_icons=true&theme=transparent" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asgarlysanan&theme=transparent" />
-</p>
+Frontend Engineering <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-000000%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3_(Glassmorphism)-000000%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3D2997ff" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript_(ES6%2B)-000000%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Df7df1e" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Ecosystem-000000%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61dafb" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Three.js_(WebGL)-000000%3Fstyle%3Dflat-square%26logo%3Dthree.js%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-000000%3Fstyle%3Dflat-square%26logo%3Dtailwindcss%26logoColor%3D38bdf8" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asgarlysanan&layout=compact&theme=transparent" />
-</p>
+Backend & Architecture <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-000000%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3D3776ab" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django_Rest_Framework-000000%3Fstyle%3Dflat-square%26logo%3Ddjango%26logoColor%3D092e20" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-000000%3Fstyle%3Dflat-square%26logo%3Dfastapi%26logoColor%3D009688" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-000000%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3D4169e1" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-000000%3Fstyle%3Dflat-square%26logo%3Dredis%26logoColor%3Ddc382d" />
 
----
+DevOps & Tools <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-000000%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3D2496ed" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-000000%3Fstyle%3Dflat-square%26logo%3Dkubernetes%26logoColor%3D326ce5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-000000%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Df05032" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-000000%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Df24e1e" />
 
-⚡ **Fun fact**  
-I care more about how something *feels* than how impressive it looks in a demo.
+</div>
+
+🧪 Selected Works
+
+Project
+
+Tech Stack
+
+Description
+
+📊 FinDash Pro
+
+WebSocket D3.js React
+
+Real-time cryptocurrency analytics dashboard processing live market data with sub-second latency.
+
+🧠 NeuroChat
+
+OpenAI API Python Next.js
+
+Context-aware AI customer support agent capable of handling complex query resolution.
+
+☁️ CloudKeeper
+
+AWS Lambda S3 Node.js
+
+Serverless secure file management system with end-to-end encryption.
+
+🥽 VisionOS Web
+
+Three.js WebGL CSS3D
+
+A spatial computing web interface simulation mimicking Apple's Vision Pro UI in the browser.
+
+🌱 Currently Deepening
+
+Python Web Frameworks: Pushing FastAPI to its limits for async performance.
+
+Backend Architecture: Exploring Event-Driven Architecture (EDA) patterns.
+
+AI Integration: Moving beyond wrappers to build AI deeply into product logic.
+
+UI Engineering: Animation-driven interfaces that feel "alive" (Motion Design).
+
+Learning for me means depth over hype.
+
+<div align="center">
+<h3>🧩 "I design systems, not just interfaces."</h3>
+<p>I enjoy discussing <i>why</i> something should be built — not just <i>how</i>.</p>
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsananasgarly%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2997ff%26text_color%3D86868b%26icon_color%3Dbf5af2%26hide%3Dstars" height="150" alt="stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsananasgarly%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2997ff%26text_color%3D86868b%26icon_color%3Dbf5af2" height="150" alt="languages" />
+</div>
+
+<div align="center">
+<br />
+<a href="https://www.google.com/search?q=https://linkedin.com/in/sananasgarly">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077b5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://instagram.com/sananasgarly">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-Follow-e1306c%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" />
+</a>
+</div>

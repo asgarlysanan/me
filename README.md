@@ -1,142 +1,144 @@
-<!-- ===================== HERO BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0e75b6,100:111827&text=Sanan%20Asgarly&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=System%20Builder%20%7C%20Advanced%20UI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62" />
-</p>
+<!-- ========================================================= -->
+<!--                 FULL SYSTEM PROFILE README                -->
+<!--                 ALL-IN-ONE / SINGLE FILE                  -->
+<!-- ========================================================= -->
+
+<!-- ======================= -->
+<!--        SVG BANNER        -->
+<!-- ======================= -->
+
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <style>
+      .title { font: bold 54px 'JetBrains Mono', monospace; fill: url(#neon); }
+      .subtitle { font: 18px 'JetBrains Mono', monospace; fill: #94a3b8; }
+      .matrix { font: 14px 'JetBrains Mono', monospace; fill: #22d3ee; opacity: 0.08; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- MATRIX TEXT -->
+  <g class="matrix">
+    <text x="40" y="40">01001001 01001110 01010100 01000101 01010010</text>
+    <text x="80" y="80">01000001 01010010 01000011 01001000</text>
+    <text x="120" y="120">01010011 01011001 01010011 01010100</text>
+    <text x="160" y="160">01000101 01001101</text>
+  </g>
+
+  <!-- MAIN TEXT -->
+  <text x="600" y="120" text-anchor="middle" class="title">
+    SANAN ASGARLY
+  </text>
+  <text x="600" y="160" text-anchor="middle" class="subtitle">
+    System-Oriented Developer • Interface Architect • AI Driven
+  </text>
+</svg>
+
+---
+
+<!-- ======================= -->
+<!--        SOCIAL BAR        -->
+<!-- ======================= -->
 
 <p align="center">
-  <a href="https://github.com/asgarlysanan">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:asgarlysanann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sanan-asgarly-0a7220394">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/YOURNUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-<h2 align="center">👋 Hi, I’m Sanan</h2>
+<!-- ======================= -->
+<!--        ASCII CORE        -->
+<!-- ======================= -->
 
-<p align="center">
-I build systems, interfaces, and tools — not just websites.<br/>
-Focused on advanced UI, smooth animations, and intelligent web applications.
-</p>
+```txt
+┌─────────────────────────────────────────────────────────┐
+│ SYSTEM NAME : JOPESH                                    │
+│ MODE        : ARCHITECTURAL THINKING                    │
+│ UI LAYER    : OS-LIKE / EXPERIMENTAL                    │
+│ CORE RULE   : STRUCTURE > FRAMEWORK                     │
+│ STATUS      : CONTINUOUS EVOLUTION                      │
+└─────────────────────────────────────────────────────────┘
+🧠 Philosophy
+I don’t enjoy writing code just to finish tasks.
 
----
+What actually drives me:
 
-## 🧠 How I Think About Programming
+designing systems, not pages
 
-I don’t enjoy writing code just to make something work.  
-I care about **how systems behave**, **how interfaces feel**, and **how far ideas can be pushed**.
+building interfaces people usually avoid
 
-- I design **systems**, not pages  
-- I build **interfaces most people don’t attempt**  
-- I focus on **architecture before frameworks**  
-- I like turning complex logic into **simple, smooth experiences**
+focusing on architecture before frameworks
 
----
+making complex logic feel simple and smooth
 
-## 🚀 Main Project
+Every serious project starts with one question:
 
-### 🧩 JOPESH  
-**Joint Operational Personal Enhanced System Host**
+How far can this idea be pushed?
+
+🚀 Main Platform
+🧩 JOPESH
+Joint Operational Personal Enhanced System Host
 
 A long-term evolving system focused on:
-- AI-assisted workflows  
-- advanced frontend UI layers  
-- system-like web interfaces  
-- automation & real-time interaction  
 
-This is not a single app — it’s a **platform mindset**.
+AI-assisted workflows
 
----
+system-like web interfaces
 
-## 🌱 Currently Learning & Deepening
+advanced frontend UI layers
 
-- Python web frameworks  
-- Backend architecture & system design  
-- AI integration into real-world apps  
-- Animation-driven UI engineering  
+automation & real-time interaction
 
----
+This is not a single app.
+This is a platform mindset.
 
-## 💬 Ask Me About
+<!-- ======================= --> <!-- TOOL ICON MATRIX --> <!-- ======================= -->
+🛠️ Technology Matrix
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" /> </p>
+Frontend / UI
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,webpack" /> </p>
+Backend / System
+<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,linux" /> </p>
+DevOps / Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,postman" /> </p>
+Environment
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,neovim,windows,ubuntu" /> </p>
+<!-- ======================= --> <!-- GITHUB METRICS --> <!-- ======================= -->
+📊 System Metrics
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" /> </p>
+📅 Activity & Habits
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" /> </p> <p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" /> </p>
+🧮 Code Intelligence
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" /> </p> <p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" /> </p>
+<!-- ======================= --> <!-- MUSIC / ANIME UI --> <!-- ======================= -->
+🎧 Focus / Music
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.recent.svg" /> </p>
+🌸 Anime / Aesthetic Layer
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" /> </p>
+<!-- ======================= --> <!-- TERMINAL UI --> <!-- ======================= -->
+💻 Terminal Identity
+<p align="center"> <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" /> </p>
+🧭 Final Note
+I don’t chase trends.
+I build structures that last.
 
-- Advanced UI animations  
-- High-end interface systems  
-- Modern web applications  
-- Frontend architecture decisions  
+If something feels too complex for most people —
+that’s usually where I’m most interested.
 
----
-
-## 🛠 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Metrics (Live & Auto-Updated)
-
-![Metrics](https://metrics.lecoq.io/asgarlysanan
-?template=classic
-&config.timezone=Asia/Baku
-&config.display=large
-
-&base.header=1
-&base.activity=1
-&base.community=1
-&base.repositories=1
-&base.metadata=1
-
-&languages=1
-&languages.limit=8
-&languages.details=percentage
-
-&habits=1
-&habits.facts=true
-&habits.charts=true
-
-&isocalendar=1
-&isocalendar.duration=full-year
-
-&projects=1
-
-&followup=1
-
-&achievements=1
-&achievements.display=detailed
-&achievements.secrets=true
-
-&notable=1
-)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asgarlysanan&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asgarlysanan&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asgarlysanan&layout=compact&theme=transparent" />
-</p>
-
----
-
-⚡ **Fun fact**  
-I care more about how something *feels* than how impressive it looks in a demo.
+<p align="center"> <i>“Great systems don’t explain themselves. They just work.”</i> </p> ```
